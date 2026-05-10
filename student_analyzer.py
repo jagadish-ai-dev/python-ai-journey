@@ -5,7 +5,8 @@ students = {
     "Sneha": 74,
     "Arjun": 55,
     "Surya": 96,
-    "Meera":100
+    "Meera": 100,
+    "Keerthi": 99
 }
 def calculate_average(data):
     total = sum(data.values())
